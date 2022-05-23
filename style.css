@@ -1,0 +1,19 @@
+body {
+    color: rgb(101, 218, 226);
+    font-family: Arial;
+    text-align: center;
+}
+
+p {
+    font-size: 36px;
+}
+
+ul {
+    width: 200px;
+    margin: auto;
+}
+
+img {
+    width: 100px;
+    height: 200px;
+}
